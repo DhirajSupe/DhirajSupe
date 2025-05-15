@@ -1,8 +1,7 @@
 - 👋 Hi, I’m DhirajSupe
 - 👀 I’m interested in Data 
 - 🌱 I’m currently learning Machine Learning
-- Data Analyst with 2 years of experience turning data into actionable insights through Python,
--  PowerBI, Tableau, and visual storytelling. Passionate about transforming raw data into impactful decisions.
+- Data Analyst with 2 years of experience turning data into actionable insights through Python, PowerBI, Tableau, and visual storytelling. Passionate about transforming raw data into impactful decisions.
 
 
 <!---
